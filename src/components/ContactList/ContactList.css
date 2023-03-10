@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://img1.akspic.ru/crops/3/2/7/2/4/142723/142723-rozovyj-purpurnyj_cvet-chernyy-fialka-krasnyj_cvet-3840x2160.jpg);
+  background-size: cover;
+}
+.img-contactlist {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: auto;
+  object-fit: cover;
+}
+.container-card {
+  background-image: url(https://i.pinimg.com/564x/53/f7/9d/53f79dcd723ffa00faad120ad7e6c5a0.jpg);
+  background-size: cover;
+  border: none;
+}
+.btn-contact-list-edit {
+  background: transparent;
+  border: 1px solid white;
+}
+.title-contact-list {
+  color: white;
+}
+.acordion-body-contact {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
